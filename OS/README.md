@@ -7,7 +7,7 @@ This folder contains a sample of projects I have done for my operating systems c
 ## synch.c
 
 
-Synch.c is a file that comes with OS/161, an educational operating system developed by Harvard University to teach fundamental OS concepts. However, it is also only a template. Using my knowledge of synchronization primitives and provided skeletone code, I had to write all functions associated with mutex locks and condition variables (CVs). This file is actually a part of the OS kernel and is what allows OS/161 to support concurrency. With synchronization primitives, OS/161 can now safely handle multiple processes running concurrently.<br/><br/>
+Synch.c is a file that comes with OS/161, an educational operating system developed by Harvard University to teach fundamental OS concepts. However, it is also only a template. Using my knowledge of synchronization primitives and provided skeleton code, I had to write all functions associated with mutex locks and condition variables (CVs). This file is actually a part of the OS kernel and is what allows OS/161 to support concurrency. With synchronization primitives, OS/161 can now safely handle multiple processes running concurrently.<br/><br/>
 
 
 ## catsem.c 
